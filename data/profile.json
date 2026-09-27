@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "name": "Pratham GN",
+    "role": "Full-Stack Engineer",
+    "location": "Bengaluru, India",
+    "tagline": "13 years building full-stack web applications across banking, HR and media platforms — React/Redux on the front, Java Spring Boot and microservices on the back.",
+    "yearsExperience": 13,
+    "email": "Pratham.3850@gmail.com",
+    "phone": "+91-9008931209",
+    "resumeFile": "assets/resume.pdf",
+    "socials": {
+      "github": "<<FILL: https://github.com/yourhandle>>",
+      "linkedin": "<<FILL: https://linkedin.com/in/yourhandle>>",
+      "twitter": ""
+    }
+  },
+
+  "about": {
+    "paragraphs": [
+      "I'm a full-stack engineer with 13 years of experience across frontend, backend and automation, currently building institutional banking applications at ANZ as a full-stack developer — from requirements and development through system test support, code quality checks, deployment and CI, including automation of UI operations. Earlier roles at Viatris and Mindtree covered ASP.NET web applications, AngularJS/WebAPI analytics tools, and WCF reporting systems.",
+      "I'm looking for my next full-stack role in Bengaluru — building product end-to-end with React/Redux and Java/Spring Boot microservices, the same way I have across banking, HR and media platforms for over a decade."
+    ],
+    "highlights": [
+      { "label": "Experience", "value": "13 yrs" },
+      { "label": "Focus", "value": "Full-Stack Engineering" },
+      { "label": "Stack", "value": "React · Java · Spring Boot" },
+      { "label": "Base", "value": "Bengaluru, India" }
+    ]
+  },
+
+  "experience": [
+    {
+      "company": "ANZ Operations and Technology",
+      "title": "Full Stack Developer",
+      "location": "",
+      "start": "2019",
+      "end": "Present",
+      "summary": "Institutional banking platform (Orion), built from scratch",
+      "highlights": [
+        "Worked as a full stack developer on Orion, an institutional banking clients/customers platform built from scratch, from requirements through development, system test support and user access testing support",
+        "Handled data flow across multiple upstream and downstream systems with multiple stakeholders, with a focus on quality, user experience and turnaround time",
+        "Owned code scan for quality checks, deployment, continuous integration, and automation of UI operations"
+      ],
+      "stack": ["Java", "Spring Boot", "Microservices", "Kafka", "JPA", "React", "Jenkins", "Sonar", "Openshift"]
+    },
+    {
+      "company": "Viatris",
+      "title": "Software Developer",
+      "location": "",
+      "start": "2017",
+      "end": "2019",
+      "summary": "HR and workforce management web applications",
+      "highlights": [
+        "Built Eclearance, an ASP.NET application for HR-initiated employee clearance, routing approvals to concerned departments before final relieval",
+        "Built AMS (Attendance Management System), an ASP.NET application covering attendance marking/regularization, leave application and approval, shift assignment, and employee/report management for managers and admins",
+        "Added biometric attendance capture as a new integration into AMS"
+      ],
+      "stack": ["ASP.NET", "SQL Server", "JavaScript", "HTML", "CSS"]
+    },
+    {
+      "company": "Mindtree Ltd",
+      "title": "Software Engineer",
+      "location": "",
+      "start": "2013",
+      "end": "2017",
+      "summary": "Client: Time Inc — Consumer Marketing Analytic Systems (CMAS)",
+      "highlights": [
+        "Built CircManager, a WCF reporting application generating circulation reports by magazine, time period, groups and columns",
+        "Built CLTV (Customer Lifetime Valuation) from scratch using AngularJS and WebAPI, projecting ~50 billing/renewal parameters 1, 3 and 5 years out from historical data, with scenario editing and unit test automation via Jasmine and Protractor",
+        "Worked on Listplanning, a suite of 8 interrelated applications, including migrating its database from Oracle to MS SQL Server"
+      ],
+      "stack": ["AngularJS", "WebAPI", "Bootstrap", "WCF", "Jasmine", "Protractor", "Oracle", "SQL Server"]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Orion — Institutional Banking Platform",
+      "description": "Ground-up institutional banking application at ANZ for institutional clients and customers, built with a focus on quality, user experience and turnaround time. Full-stack ownership from requirements to deployment, including CI and UI automation.",
+      "tags": ["Java", "Spring Boot", "Microservices", "Kafka", "React"],
+      "link": "",
+      "repo": ""
+    },
+    {
+      "name": "CLTV — Customer Lifetime Valuation",
+      "description": "AngularJS/WebAPI analytics tool built from scratch for Time Inc, projecting ~50 subscription parameters (billing, renewal, etc.) across 1/3/5-year horizons from historical data, with scenario editing and automated unit testing.",
+      "tags": ["AngularJS", "WebAPI", "Bootstrap", "Jasmine", "Protractor"],
+      "link": "",
+      "repo": ""
+    },
+    {
+      "name": "AMS — Attendance Management System",
+      "description": "ASP.NET web application for end-to-end employee attendance: marking, regularization, leave requests/approvals, shift assignment, reporting, and biometric device integration.",
+      "tags": ["ASP.NET", "SQL Server", "JavaScript"],
+      "link": "",
+      "repo": ""
+    },
+    {
+      "name": "CircManager",
+      "description": "WCF reporting application for magazine circulation data, letting users generate parameter-based reports by magazine type, time period, and custom groupings/columns.",
+      "tags": ["WCF", ".NET"],
+      "link": "",
+      "repo": ""
+    }
+  ],
+
+  "skills": {
+    "groups": [
+      {
+        "category": "Frontend",
+        "items": ["React.js", "Redux", "AngularJS", "JavaScript", "jQuery", "JSX", "HTML", "CSS", "Bootstrap"]
+      },
+      {
+        "category": "Backend",
+        "items": ["Java", "Spring Boot", "Microservices", "Kafka", "JPA", "ASP.NET", "WCF", "WebAPI"]
+      },
+      {
+        "category": "Databases",
+        "items": ["MongoDB", "SQL Server", "Oracle"]
+      },
+      {
+        "category": "Testing & Automation",
+        "items": ["JUnit", "Jasmine", "Protractor", "Puppeteer", "Cucumber"]
+      },
+      {
+        "category": "DevOps & Tools",
+        "items": ["Jenkins", "OpenShift", "Sonar", "Codefresh", "GitHub", "Jira", "Agile"]
+      }
+    ]
+  },
+
+  "github": {
+    "username": "<<FILL: your-github-username>>",
+    "note": "Pinned repos and contribution graph load live from the GitHub API using the username above."
+  },
+
+  "education": [
+    {
+      "school": "Bapuji Institute of Engineering & Technology, VTU Belagavi",
+      "degree": "BE, Information Science and Engineering",
+      "start": "2008",
+      "end": "2012",
+      "detail": ""
+    },
+    {
+      "school": "SJM PU College",
+      "degree": "Pre-University Education",
+      "start": "",
+      "end": "",
+      "detail": ""
+    },
+    {
+      "school": "Vidya Vikas, Chitradurga",
+      "degree": "Secondary Education (10th)",
+      "start": "",
+      "end": "",
+      "detail": ""
+    }
+  ],
+
+  "contact": {
+    "heading": "Let's build something",
+    "message": "Open to full-stack engineering roles in Bengaluru — reach out by email or connect below."
+  }
+}
